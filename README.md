@@ -8,6 +8,11 @@ sudoku solver using python
 ```
 pip install numpy
 ```
+<br> In Jupyter Notbook or Google colab
+<br>
+```
+!pip install numpy
+```
 
 Output :
 ```python
